@@ -1,1 +1,1 @@
-"DevOps GitHub Lab" 
+"DevOps Lab" 
